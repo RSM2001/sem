@@ -1,2 +1,3 @@
-###Read Me File
-####This is the read me file for my first project!
+# Software Engineering Methods
+
+- Master Build Status [![Build Status](https://travis-ci.com/RSM2001/sem.svg?branch=master)](https://travis-ci.com/RSM2001/sem)
